@@ -100,4 +100,4 @@ bot-agendamento-unhas/
 ├── config.js     → configurações do salão (edite aqui!)
 ├── package.json  → dependências do projeto
 └── README.md     → este arquivo
-``
+```
